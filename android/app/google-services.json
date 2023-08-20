@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "589581212212",
+    "project_id": "incident-reporter-5849b",
+    "storage_bucket": "incident-reporter-5849b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589581212212:android:e76b2f7d44734a27b1c861",
+        "android_client_info": {
+          "package_name": "com.incident_reporter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589581212212-gpm28j1dco21k2mklp57j4hoiopr8roq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWV_YbPWuGrCcR4utM8Otq1UhQN161btM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "589581212212-gpm28j1dco21k2mklp57j4hoiopr8roq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
